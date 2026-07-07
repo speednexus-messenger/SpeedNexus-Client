@@ -39,9 +39,9 @@ SpeedNexus — это российский мессенджер для быст�
 
 ## Контакты
 
-Telegram: t.me/SpeedNexus  
-YouTube: @SpeedNexus_Messenger  
-Сайт: https://speednexus.ru
+Telegram: [t.me/SpeedNexus](https://t.me/SpeedNexus)  
+YouTube: [@SpeedNexus_Messenger](https://youtube.com/@SpeedNexus_Messenger)  
+Сайт: [https://speednexus.ru](https://speednexus.ru)
 
 ---
 
